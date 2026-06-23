@@ -12,7 +12,6 @@ Trabajo de forma autónoma desde Monterrey, México.
 ## Contacto
 ¡No dudes en contactarme si tienes alguna pregunta o sugerencia!
 
-- 🌐 [oblivicode.com](https://oblivicode.com)
-- 📧 aaron239rdz@oblivicode.com
+- 📧 me@branrgx.dev
 
 ¡Gracias por visitar mi GitHub!
